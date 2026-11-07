@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+    <Name value="CustomVendingOverhaul"/>
+    <DisplayName value="Custom Vending Overhaul (Daily 100% 3-5 Sales &amp; Unlimited Rent)"/>
+    <Version value="1.0.0"/>
+    <Description value="Enables auto-selling for home-placed vending machines, unlocks unlimited rented vending machines, and guarantees 100% daily sales of 3 to 5 item stacks."/>
+    <Author value="Rover"/>
+    <Website value=""/>
+</xml>
